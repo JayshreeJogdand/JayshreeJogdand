@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JayshreeJogdand
-- 👀 I’m interested in ... Data Analysis and Machine Learning
+- 👀 I’m interested in ...    Web Development , Data Analysis and Machine Learning
 - 🌱 I’m currently learning ... Pandas and numpy
 - 💞️ I’m looking to collaborate on ... Data analysis Projects
 - 📫 You can reach me at my linkedin www.linkedin.com/in/jayshree-jogdand-6a8312312
